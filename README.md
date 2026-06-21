@@ -180,3 +180,22 @@
 - 后续知识库底稿
 
 如果后面你确认这个新仓库只供自己内部使用，再决定是否全部推送。
+
+## 产品方向补充
+
+这个项目最终不只是文案工作流。
+
+长期方向已经明确为：
+
+- 招生内容智能体
+- 视频生成与剪辑投喂
+- 封面与包装自动化
+- 多平台发布
+- 数字人能力
+- 最终收口到 HTML / Web 工作台或软件化 AI 智能体
+
+当前先看这 3 份：
+
+- [产品蓝图_product_blueprint.md](D:\FDE学习\项目_projects\奥斯翰国际学校招生AI智能体_aushan_admissions_ai_agent\产品蓝图_product_blueprint.md)
+- [系统模块规划_system_modules.md](D:\FDE学习\项目_projects\奥斯翰国际学校招生AI智能体_aushan_admissions_ai_agent\系统模块规划_system_modules.md)
+- [v1实施路线_v1_execution_plan.md](D:\FDE学习\项目_projects\奥斯翰国际学校招生AI智能体_aushan_admissions_ai_agent\v1实施路线_v1_execution_plan.md)
